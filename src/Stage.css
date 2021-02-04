@@ -1,0 +1,12 @@
+.stage{
+    flex: 4;
+    display: flex;
+    background-color: grey;
+}
+
+.stage .participant-list {
+    display: flex;
+}
+.stage .participant-list .participant {
+    flex: 1;
+}
